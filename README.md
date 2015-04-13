@@ -14,4 +14,5 @@ Example:
 
 ## Copyright and License
 
-MIT License, see [LICENSE](LICENSE.md) for details.
+MIT License, see [LICENSE](LICENSE) for details.
+
